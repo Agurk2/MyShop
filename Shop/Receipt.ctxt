@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Receipt
+comment0.text=\n\ Class\ Receipt\ will\ display\ the\ values\ chosen\ in\ class\ Shop,\ with\ the\ appropriate\ calculations,\ and\ display\ the\ final\n\ total.\ This\ total\ will\ include\ a\ 20%\ VAT\ (because\ who\ doesn't\ love\ taxes?).\ This\ is\ the\ final\ class\ in\ the\ program.\n\ There\ is\ no\ way\ to\ go\ back\ to\ class\ Shop,\ as\ you've\ finished\ your\ purchase.\ To\ restart,\ launch\ class\ Welcome.\n\n\ @author\ onorregaard\n\ @version\ 12.3.20\n
+comment1.params=
+comment1.target=Receipt()
+comment1.text=\n\ Constructor\ for\ class\ Receipt\n
+numComments=2

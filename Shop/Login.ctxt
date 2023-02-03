@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Login
+comment0.text=\n\ Class\ Login\ will\ display\ a\ login\ screen.\ On\ this\ login\ screen,\ there\ is\ an\ option\ to\ input\ both\ a\ user\ id\ and\ a\ password.\n\ If\ both\ the\ user\ id\ and\ the\ password\ matches\ with\ the\ predetermined\ set,\ then\ this\ class\ will\ be\ disposed\ and\ \n\ the\ class\ Shop\ will\ be\ excecuted.\n\n\ @author\ onorregaard\n\ @version\ 3.2.2020\n
+comment1.params=
+comment1.target=Login()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Login\n
+numComments=2

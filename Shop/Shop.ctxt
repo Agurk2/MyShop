@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Shop
+comment0.text=\n\ This\ class\ will\ allow\ the\ user\ to\ pick\ and\ choose\ your\ favourite\ beans.\ \n\ They\ will\ be\ able\ to\ choose\ brand,\ quantity\ and\ wheter\ they\ want\ their\ beans\ cooked\ or\ not.\ \n\ This\ information\ will\ be\ transfered\ to\ the\ class\ Recipt\n\n\ @author\ Onorregaard\n\ @version\ 12.3.20\n
+comment1.params=
+comment1.target=Shop()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Shop\n
+numComments=2
